@@ -9,7 +9,7 @@ This is where my HTML and CSS projects are kept.
 - [Portfolio website](https://madakdouk.github.io)
 
 ### Divas Archive
-This is a basic HTML and CSS website that I made, focusing on a stylized nav bar, animated image containers, and a contact form. I made it my own by focusing the content on my favorite pop divas :)
+This is a basic HTML and CSS website that I made, showcasing a stylized nav bar, animated image containers, and a contact form. I made it my own by focusing the content on my favorite pop divas :)
 
 ### Movie theater site
 This movie theater website was stylized using Bootstrap 4. It is simple, but uses many different Bootstrap components.
