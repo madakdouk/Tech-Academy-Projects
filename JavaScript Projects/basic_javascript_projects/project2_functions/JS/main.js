@@ -1,7 +1,7 @@
 function first() {
-    //assigning variables
-    var p = 'Try clicking this button';
-    var b = 'Hello, World!';
-    //sending variables to html using function
+    //assigning variable and concatenating
+    var p = 'Hello, World. ';
+    p += 'This is fun!'
+    //sending variable to html
     document.getElementById("paragraph").innerHTML = p;
 }
